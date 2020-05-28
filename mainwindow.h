@@ -6,7 +6,7 @@
 #include <QTextStream>
 #include <QByteArray>
 #include "CRC.h"
-#include "qextserialport.h"
+
 
 #define MEMORY_ARRAY_SIZE 0x100000    // This is the maximum size of a SAM4C single plane of flash. ie. 1M
 #define SAM4C_PAGE_SIZE 512
