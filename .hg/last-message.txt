@@ -1,1 +1,0 @@
-About to strip out the download part of this as it's being done over HTTP now
